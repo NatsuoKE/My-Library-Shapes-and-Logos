@@ -1,0 +1,6 @@
+Necesita Vsfiltermod.
+
+
+shape.animated(fx.dur,100,frames,250,301)
+
+frames = {"Frame0.png","Frame1.png","Frame2.png","Frame3.png"}
