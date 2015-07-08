@@ -10,31 +10,11 @@ PlayResX: 1280
 PlayResY: 720
 
 [Aegisub Project Garbage]
+Last Style Storage: Default
 Video File: ?dummy:23.976000:40000:1280:720:255:255:255:
 Video AR Value: 1.777778
 Video Zoom Percent: 1.150000
 Video Position: 1159
-
-[V4+ Styles]
-Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default-furigana,Arial,10,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,1,2,10,10,10,1
-Style: Titulo Kaito-furigana,@DFPOP1-W9,25,&H00FFFFFF,&H000000FF,&H00341E0B,&H00000000,-1,0,0,0,100,80,0,0,1,1,2,2,120,120,35,1
-Style: personasylugar-furigana,Baqacents Semi Bold,20,&H00FFFFFF,&H00E8FFFF,&H00121212,&H82252525,0,0,0,0,100,100,1,0,1,0,0,2,5,5,20,0
-Style: notas2-furigana,Century Gothic,18,&H00E8FFFF,&H000000FF,&H00000000,&H00629AD1,-1,0,0,0,100,100,0,0,1,0.76558,0,7,10,10,10,1
-Style: noticia-furigana,Aharoni,23,&H00E8FFFF,&H00E8FFFF,&H00252525,&H82252525,-1,-1,0,0,80,100,0,0,1,0.918695,0,8,5,5,16,0
-Style: notas-furigana,Century Gothic,21.5,&H00E8FFFF,&H000000FF,&H00000000,&H00629AD1,-1,0,0,0,80,100,0,0,1,0.76558,0,7,10,10,10,1
-Style: Default2-furigana,Aharoni,23,&H00CCB1AB,&H00E8FFFF,&H00252525,&H82252525,-1,0,0,0,80,100,0,0,1,0.918695,0,2,5,5,16,0
-Style: Carteles-furigana,Calibri,16.5,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,80,100,0,0,1,1.02077,0,8,10,10,10,1
-Style: Lineas-furigana,Open Sans Semibold,21,&H00FFFFFF,&H00E8FFFF,&H00010108,&H82808080,0,0,0,0,100,100,0.2,0,1,1,0.25,2,5,5,8,0
-Style: Lineas,Open Sans Semibold,42,&H00FFFFFF,&H00E8FFFF,&H00010108,&H82808080,0,0,0,0,100,100,0.2,0,1,2,0.5,2,5,5,8,0
-Style: Carteles,Calibri,33,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,80,100,0,0,1,2.04154,0,8,10,10,10,1
-Style: Default2,Aharoni,46,&H00CCB1AB,&H00E8FFFF,&H00252525,&H82252525,-1,0,0,0,80,100,0,0,1,1.83739,0,2,5,5,16,0
-Style: notas,Century Gothic,43,&H00E8FFFF,&H000000FF,&H00000000,&H00629AD1,-1,0,0,0,80,100,0,0,1,1.53116,0,7,10,10,10,1
-Style: noticia,Aharoni,46,&H00E8FFFF,&H00E8FFFF,&H00252525,&H82252525,-1,-1,0,0,80,100,0,0,1,1.83739,0,8,5,5,16,0
-Style: notas2,Century Gothic,36,&H00E8FFFF,&H000000FF,&H00000000,&H00629AD1,-1,0,0,0,100,100,0,0,1,1.53116,0,7,10,10,10,1
-Style: personasylugar,Baqacents Semi Bold,40,&H00FFFFFF,&H00E8FFFF,&H00121212,&H82252525,0,0,0,0,100,100,1,0,1,0,0,2,5,5,20,0
-Style: Titulo Kaito,@DFPOP1-W9,50,&H00FFFFFF,&H000000FF,&H00341E0B,&H00000000,-1,0,0,0,100,80,0,0,1,2,4,2,120,120,35,1
-Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
