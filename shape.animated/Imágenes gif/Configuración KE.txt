@@ -1,4 +1,4 @@
-Necesita Vsfiltermod.
+Necesita Vsfiltermod para ver imagenes en Aegisub, al momento de encodear se debe usar tambien.
 
 
 shape.animated(fx.dur,100,frames,250,301)
